@@ -1,0 +1,23 @@
+{
+    "cSpell.words": [
+        "addwallet",
+        "autoflush",
+        "createwallet",
+        "depositmoney",
+        "depositwallet",
+        "fastapi",
+        "loginschema",
+        "newwallet",
+        "passlib",
+        "pydantic",
+        "Sessionlocal",
+        "sqlalchemy",
+        "tokenschema",
+        "transactionschema",
+        "transferwallet",
+        "usermodel",
+        "userschema",
+        "walletmodel",
+        "walletschema"
+    ]
+}
